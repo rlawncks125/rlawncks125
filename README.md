@@ -13,10 +13,11 @@
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white&" />
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-FF7328?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat&logo=TailwindCSS&logoColor=white" />
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-FF7328?style=flat&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=TailwindCSS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-30B980?style=flat&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat&logo=nestjs&logoColor=white" />
   
 </div>
 
